@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "minecraft:textures/entity/illager/illusioner.png" : "outlined_sprite:illusioner.png"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "minecraft:textures/entity/skeleton/skeleton.png" : "outlined_sprite:skeleton.png"
+    }
+}

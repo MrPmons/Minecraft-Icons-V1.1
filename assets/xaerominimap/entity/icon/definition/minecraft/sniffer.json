@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "minecraft:textures/entity/sniffer/sniffer.png" : "outlined_sprite:sniffer.png"
+    }
+}

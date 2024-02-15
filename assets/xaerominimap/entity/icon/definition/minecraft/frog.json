@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "minecraft:textures/entity/frog/temperate_frog.png" : "outlined_sprite:frog_orange.png",
+        "minecraft:textures/entity/frog/cold_frog.png" : "outlined_sprite:frog_green.png",
+        "minecraft:textures/entity/frog/warm_frog.png" : "outlined_sprite:frog_white.png"
+    }
+}

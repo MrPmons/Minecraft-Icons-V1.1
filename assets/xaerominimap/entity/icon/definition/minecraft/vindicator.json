@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "minecraft:textures/entity/illager/vindicator.png" : "outlined_sprite:vindicator.png"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "minecraft:textures/entity/illager/ravager.png" : "outlined_sprite:ravager.png"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "minecraft:textures/entity/warden/warden.png" : "outlined_sprite:warden.png"
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": [
+		{
+			"text": "v1.1",
+			"color": "green"
+		},
+		{ "text": " " },
+		{
+			"text": "An icon resource pack for Minecraft. For Xaerosminimap.",
+			"color": "white"
+
+		}
+	]
+  }
+}

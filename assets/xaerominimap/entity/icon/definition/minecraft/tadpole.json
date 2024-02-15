@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "minecraft:textures/entity/tadpole/tadpole.png" : "outlined_sprite:tadpole.png"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "minecraft:textures/entity/illager/vex.png" : "outlined_sprite:vex.png",
+        "minecraft:textures/entity/illager/vex_charging.png" : "outlined_sprite:vex_angy.png"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "minecraft:textures/entity/illager/evoker_fang.png" : "outlined_sprite:evoker_fangs.png"
+    }
+}

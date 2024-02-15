@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "minecraft:textures/entity/skeleton/wither_skeleton.png" : "outlined_sprite:wither_skeleton.png"
+    }
+}

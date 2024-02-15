@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "minecraft:textures/entity/illager/pillager.png" : "outlined_sprite:pillager.png"
+    }
+}

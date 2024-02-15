@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "minecraft:textures/entity/wolf/wolf.png" : "outlined_sprite:wolf.png",
+        "minecraft:textures/entity/axolotl/axolotl_wild.png" : "outlined_sprite:axolotl_brown.png",
+        "minecraft:textures/entity/axolotl/axolotl_gold.png" : "outlined_sprite:axolotl_gold.png",
+        "minecraft:textures/entity/axolotl/axolotl_cyan.png" : "outlined_sprite:axolotl_cyan.png",
+        "minecraft:textures/entity/axolotl/axolotl_blue.png" : "outlined_sprite:axolotl_blue.png"
+    }
+}

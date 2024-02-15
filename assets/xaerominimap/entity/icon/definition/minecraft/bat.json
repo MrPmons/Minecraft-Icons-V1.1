@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "minecraft:textures/entity/bat.png" : "outlined_sprite:bat.png"
+    }
+}
